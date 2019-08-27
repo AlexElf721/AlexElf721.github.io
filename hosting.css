@@ -1,0 +1,139 @@
+#hosting {
+	width: 100%;
+	height: 767px;
+	position: relative;
+	color: #556b72
+}
+
+#widthHosting {
+	position: relative;
+	margin: 0 auto;
+	width: 1171px;
+}
+
+#textHosting {
+	color: #859aa1;
+	position: absolute;
+	text-transform: uppercase;
+	font-size: x-large;
+	top: 90px;
+}
+
+#textHosting strong {
+	color: #556b72;
+	font-size: 135%;
+	letter-spacing: 1px;
+}
+
+#standard {
+	position: absolute;
+	top: 175px;
+	width: 263px;
+	height: 480px;
+	border: 1px solid #e1eff4;
+	text-align: center;
+}
+
+.price {
+	position: absolute;
+	top: 30px;
+	left: 85px;
+	text-transform: uppercase;
+}
+
+.price span {
+	font-size: 450%
+}
+
+.price strong {
+	text-transform: uppercase;
+	font-size: 450%;
+}
+
+.plan {
+	position: absolute;
+	top: 120px;
+	left: 40px;
+	width: 182px; 
+	height: 39px;
+	color: white;
+	background: #52cbf8;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: medium;
+	border: none;
+}
+
+#bottomStandard {
+	position: absolute;
+	bottom: 100px;
+	left: 25px;
+	font-size: 130%;
+
+}
+
+.sign {
+	position: absolute;
+	left: 74px;
+	bottom: 24px;
+	width: 115px;
+	height: 45px;
+	text-transform: uppercase;
+	color: white;
+	background: #ff8261;
+	border: none;
+}
+
+#advanced {
+	position: absolute;
+	top: 175px;
+	left: 302px;
+	width: 263px;
+	height: 480px;
+	border: 1px solid #e1eff4;
+	text-align: center;
+}
+
+#bottomAdvansed {
+	position: absolute;
+	bottom: 100px;
+	left: 25px;
+	font-size: 130%;
+
+}
+
+#business {
+	position: absolute;
+	top: 175px;
+	right: 302px;
+	width: 263px;
+	height: 480px;
+	border: 1px solid #e1eff4;
+	text-align: center;
+}
+
+#bottomBusiness {
+	position: absolute;
+	bottom: 100px;
+	left: 25px;
+	font-size: 130%;
+
+}
+
+#gold {
+	position: absolute;
+	top: 175px;
+	right: 0;
+	width: 263px;
+	height: 480px;
+	border: 1px solid #e1eff4;
+	text-align: center;
+}
+
+#bottomGold {
+	position: absolute;
+	bottom: 100px;
+	left: 25px;
+	font-size: 130%;
+
+}

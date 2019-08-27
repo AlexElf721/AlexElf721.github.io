@@ -1,0 +1,116 @@
+#hotFeat {
+	width: 100%;
+	height: 412px;
+	background: #fffbde;
+	position: relative;
+}
+
+#wigthHotFeat {
+	margin: 0 auto;
+	width: 1171px;
+	position: relative;
+}
+
+#hot {
+	color: #4c515b;
+	position: absolute;
+	text-transform: uppercase;
+	font-size: x-large;
+	top: 90px;
+}
+
+#hot span {
+	color: #556b72;
+	font-size: 135%;
+}
+
+#sale {
+	background: #ffffff;
+	width: 357px;
+	height: 117px;
+	position: absolute;
+	top: 175px;
+	border: 2px solid #fffbde;
+	outline: 12px solid #ffffff;
+}
+
+#getUp {
+	line-height: 50px;
+	padding-left: 15px;
+	color: #97947f;
+	text-transform: uppercase;
+	font-size: 120%;
+	font-weight: 900;
+}
+
+#getOff {
+	position: absolute;
+	top: 34px;
+	margin-left: 18px;
+	color: #ff8261;
+	font-size: 360%;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+#colorOff {
+	color: #52cbf8;
+	margin-left: 15px;
+}
+
+#eachHosting {
+	color: #859aa1;
+	position: absolute;
+	text-transform: uppercase;
+	font-size: 150%;
+	top: 38px;
+	right: 0;
+}
+
+#features {
+	width: 683px;
+	height: 218px;
+	color: #4c515b;
+	position: absolute;
+	top: 90px;
+	left: 488px;
+}
+
+#features span {
+	text-transform: uppercase;
+	font-size: x-large;
+}
+
+#features strong {
+	color: #556b72;
+	font-size: 135%;
+}
+
+#features div {
+	color: #696556;
+	margin-left: -40px;
+	font-size: medium;
+}
+
+.marginLi {
+	margin-top: 22px;
+}
+
+#rightLi {
+	color: #696556;
+	position: absolute;
+	top: 53px;
+	right: 198px;
+}
+
+#viewAll {
+	width: 165px;
+	height: 55px;
+	color: white;
+	background: #ff8261;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	text-transform: uppercase;
+	border: none;
+}
